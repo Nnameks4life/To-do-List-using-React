@@ -8,7 +8,7 @@ const NavBar = () => {
       <Cart />
       <i className="fas fa-star"></i>
       <Link to="/" className="navbar-brand">
-        Frankdinero
+        Frankdinerooo
       </Link>
 
       <button
@@ -34,7 +34,7 @@ const NavBar = () => {
           </li>
           <li className="nav-item">
             <Link to="/contact-us" className="nav-link">
-              Contact Us
+              Contact Us Now
             </Link>
           </li>
         </ul>

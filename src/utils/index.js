@@ -46,7 +46,7 @@ export const DATA = [
 
   {
     id: 5,
-    title: "iphone six plus",
+    title: "iphone six plus plus",
     desc: "phone five",
     rating: 3.5,
     images: five,
