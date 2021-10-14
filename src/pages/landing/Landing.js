@@ -9,8 +9,10 @@ const Landing = () => {
     <div className="container-fluid">
       <div className="row">
         <div className="col-12 bg-dark text-white landing-header">
-          <h1 className="text-center  font-weight-bold">My Shopping List</h1>
-          <p className="text-center">With this Shop Homepage Template </p>
+          <h1 className="text-center  font-weight-bold">My Market Place</h1>
+          <p className="text-center">
+            Naija update this Shop Homepage Template{" "}
+          </p>
           <div>
             <Modal
               updateCart={(item) => setProduct([item, ...product])}

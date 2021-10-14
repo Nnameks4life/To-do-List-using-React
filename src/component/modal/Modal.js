@@ -66,7 +66,7 @@ const Modal = (props) => {
 
             <div className="modal-body text-color-black">
               <div className="form-group">
-                <label htmlFor="usr">Image Url:</label>
+                <label htmlFor="usr">Product i Url:</label>
                 <input
                   type="text"
                   className="form-control"
